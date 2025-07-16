@@ -1,6 +1,6 @@
 # Taller - 2b 
 
-# Métodos Iterativos
+## Métodos Iterativos
 
 ## Ian Oñate y Pablo Pacheco
 
